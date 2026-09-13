@@ -1,5 +1,4 @@
-Project title 
-Zomato and Swiggy Data Analysis
+Project title  : Zomato and Swiggy Data Analysis
 
 
 Research questions
